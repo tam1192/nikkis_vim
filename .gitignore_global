@@ -1,0 +1,14 @@
+# macOS用
+.DS_Store
+
+# direnv用
+.envrc
+
+# vimのswpファイル
+*.swp
+
+# dotenv用
+*.env
+
+# tmpは不要
+*.tmp

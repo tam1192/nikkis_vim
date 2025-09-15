@@ -1,0 +1,11 @@
+*
+
+!.gitignore_global
+!.gitignore
+!.gitattributes
+!Readme.md
+
+# gitmodules 関連
+!.gitmodules.d
+!.gitmodules.d/.gitignore
+!.gitmodules

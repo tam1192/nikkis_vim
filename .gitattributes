@@ -1,0 +1,8 @@
+# gitignoreは基本両方残す
+.gitignore merge=union
+
+# gitsubmoduleも両方残す
+.gitmodules merge=union
+
+# union.*というファイルも両方残すようにする
+union.* merge=union
