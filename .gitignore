@@ -9,3 +9,8 @@
 !.gitmodules.d
 !.gitmodules.d/.gitignore
 !.gitmodules
+
+# vim 関連
+!.vimrc
+!.vim
+!.vim/.gitignore
