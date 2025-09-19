@@ -28,7 +28,8 @@ syntax enable
 
 " plugin load
 call plug#begin()
-
-source union.plugins.vim
-
+  source union.plugins.vim
 call plug#end()
+
+" plugin settings
+source union.settings.vim
