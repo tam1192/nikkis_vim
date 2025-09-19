@@ -25,3 +25,10 @@ syntax enable
 
 " 参考
 " https://qiita.com/iwaseasahi/items/0b2da68269397906c14c
+
+" plugin load
+call plug#begin()
+
+source union.plugins.vim
+
+call plug#end()
