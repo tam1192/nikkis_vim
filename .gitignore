@@ -15,3 +15,4 @@
 !.vim/.gitignore
 !union.plugins.vim
 !union.settings.vim
+!gitgutter.vim

@@ -1,0 +1,1 @@
+source gitgutter.vim
